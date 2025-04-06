@@ -56,14 +56,14 @@ Here are some of the primary contributers of this project:<br>
 Vaibhavi Parmar<br>
 Rishit Bagda
 
-More Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
+More Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
-Special thanks to the GDG community for organizing the competition and providing a platform to showcase this project.
+Special thanks to the GDG community for organizing the competition and providing a platform to showcase this project.
 
 ---
